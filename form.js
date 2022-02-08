@@ -1,5 +1,3 @@
-<script>
-
 var queryString = window.location.search;
 
 var urlParams = new URLSearchParams(queryString);
@@ -11,4 +9,3 @@ document.getElementById('100432765').value = is_source;
 document.getElementById('100488551').value = is_medium;
 document.getElementById('100488555').value = is_campaign;
 
-</script>
